@@ -1,0 +1,59 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        },
+        {
+            "id": 2,
+            "title": "title 2"
+        },
+        {
+            "id": 3,
+            "title": "post 3"
+        },
+        {
+            "id": 4,
+            "title": null
+        },
+        {
+            "id": 5,
+            "title": "post 5"
+        },
+        {
+            "id": 6,
+            "title": "example 6"
+        }
+    ],
+    "comments": [
+        {
+            "user": "user 1",
+            "title": "You heard me",
+            "body": "I will never change my opinion"
+        },
+        {
+            "user": "user 1",
+            "title": "Ooops",
+            "body": "I changed my mind since my first comment"
+        },
+        {
+            "user": "user 2",
+            "title": "The Truth",
+            "body": "My comments always have value"
+        },
+        {
+            "user": "user 2",
+            "title": "Untitled",
+            "body": null
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "settings": {
+        "bodyCanBeNull": true,
+        "allowUntitled": true,
+        "true": false,
+        "false": true
+    }
+}
